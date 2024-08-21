@@ -1,1 +1,0 @@
-(self.webpackChunkjava_bot_docs=self.webpackChunkjava_bot_docs||[]).push([[195],{2841:function(t,e,a){"use strict";a.r(e);var n=a(7294),c=a(5977),o=a(4996);e.default=function(){return n.createElement(c.l_,{to:(0,o.Z)("/intro/")})}}}]);
